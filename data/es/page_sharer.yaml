@@ -1,0 +1,9 @@
+buttons:
+  - id: linkedin
+    name: LinkedIn
+    url: "https://www.linkedin.com/shareArticle?mini=true&url={url}&title={title}"
+    icon: brands/linkedin
+  - id: email
+    name: Email
+    url: "mailto:?subject={title}&body={url}"
+    icon: hero/envelope
