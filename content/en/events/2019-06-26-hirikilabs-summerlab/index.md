@@ -3,7 +3,7 @@ title: "Using OpenStreetMap with inclusive purposes: Accessible Zaragoza study c
 date: 2019-06-25T08:00:06.000Z
 draft: false
 
-event_name: "Summerlab 2019: Los datos son poder \xBFen manos de qui\xE9n?"
+event_name: "Summerlab 2019: Data is power – but in whose hands?"
 event_url: "https://www.tabakalera.eu/es/summerlab-2019"
 
 location: Tabakalera. Donostia/San Sebastian
@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   Zaragoza Accesible is an action-research project that collectively maps aspects related to urban accessibility and disability. In this talk I will explain why we decided to use OpenStreetMap as well as our data collection methodology.
 
@@ -36,21 +36,11 @@ tags:
 featured: false
 
 image:
-  caption: Add a caption and credit for this image.
+  caption: ""
   focal_point: Smart
 
 links:
-  - icon: brands/github
-    name: Demo or code
-    url: ""
-  - icon: brands/youtube
-    name: Recording
-    url: ""
-  - icon: book-open
-    name: Documentation
-    url: ""
-  - icon: doc-text
-    name: Slides
+  - tyoe: slides
     url: "https://slides.carloscamara.es/2019-06-26-hirikilabs-summerlab/#/home"
 
 # Link to your Markdown slides (folder name in content/slides/)
@@ -61,8 +51,6 @@ projects:
   - zaccesible
   - eskola-bideapp
 ---
-
-<!-- Add the talk outline, prerequisites, and how people can join. -->
 
 SummerLab is a summer camp, a temporary cooperative meeting around topics related to various fields of technology, digital culture, open design and common learning, which brings together benchmark initiatives in these fields.
 

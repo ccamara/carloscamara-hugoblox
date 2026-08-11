@@ -14,9 +14,9 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2019-10-19T14:30:00.000Z
 event_end: 2019-10-19T18:30:00.000Z
@@ -36,17 +36,11 @@ image:
   focal_point: Smart
 
 links:
-  - icon: brands/github
-    name: Demo or code
-    url: ""
+
   - icon: brands/youtube
     name: Recording
     url: "https://youtu.be/jg1hXJMdJRo?t=7535"
-  - icon: book-open
-    name: Documentation
-    url: ""
-  - icon: doc-text
-    name: Slides
+  - type: slides
     url: "https://slides.carloscamara.es/2019-10-19-collaborative-cartographies/"
 
 # Link to your Markdown slides (folder name in content/slides/)

@@ -57,9 +57,10 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: events
     content:
       title: Eventos próximos y recientes
+      count: 6
       filters:
         folders:
           - events

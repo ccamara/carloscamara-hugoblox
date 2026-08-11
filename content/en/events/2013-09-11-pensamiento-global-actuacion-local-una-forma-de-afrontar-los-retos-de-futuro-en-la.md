@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   En un contexto cambiante y convulso como el que está viviendo la arquitectura en estos momentos, son muchas las voces que postulan que la enseñanza universitaria de la arquitectura debería cambiar para adaptarse. Por un lado, está la eterna discusión respecto a cómo adaptar la situación específica española al contexto del Espacio Europeo de Educación Superior (EEES) que hace que en estos momentos coexistan hasta cuatro planes de estudios diferentes en las distintas escuelas de arquitectura españolas. Por otro, están aquellos quienes denuncian un alejamiento entre la educación universitaria y la realidad profesional y que el sector debe replantearse ya desde las propias escuelas.
    Lejos de querer entrar en un debate sobre si el modelo de enseñanza universitario debe ser aplicado al mercado laboral o de si este, así como la profesión, deben ser reconsiderados globalmente, la presente comunicación hace gala de la máxima “Pensar globalmente, actuar localmente” poniendo énfasis en los pequeños cambios en el enfoque y metodología que pueden hacer los profesores desde sus respectivas asignaturas teniendo muy claro el contexto global de la profesión. 

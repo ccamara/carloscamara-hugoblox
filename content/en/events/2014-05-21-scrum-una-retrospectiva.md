@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   El desarrollo ágil tiene grandes beneficios como el control y adaptabilidad del proceso de desarrollo, la medición de la productividad, la cohesión e implicación del equipo, la mejora contínua... Tanto es así que en Ymbra somos unos convencidos de sus bondades y por eso, tras bastante tiempo utilizando versiones descafeinadas de esta metodología de trabajo, desde principios de año hemos pasado de la teoría a la práctica y hemos empezado a utilizar SCRUM de forma concienzuda en todos nuestros proyectos. Esta sesión no pretende ser tanto una sesión teórica sobre el desarrollo ágil o SCRUM ni una sesión de cómo hay que utilizarlas. Es más bien una especie de "retrospectiva" (por utilizar la terminología SCRUM) en la que compartiremos nuestra experiencia de cómo utilizamos y adaptamos estas metodologías a nuestras necesidades a nivel de herramientas y procesos, qué aspectos positivos hemos conseguido y qué aspectos hemos detectado como mejorables. Y por supuesto es también una invitación a compartir con los asistentes distintas formas de utilizar SCRUM en nuestro día a día
 

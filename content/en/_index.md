@@ -73,6 +73,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      count: 6
       filters:
         folders:
           - events

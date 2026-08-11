@@ -14,9 +14,9 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2021-12-17T10:00:00.000Z
 event_end: ""
@@ -39,16 +39,13 @@ tags:
 featured: false
 
 image:
-  caption: Add a caption and credit for this image.
+  caption: Dashboard's screenshot
   focal_point: Smart
 
 links:
   - icon: brands/github
     name: Demo or code
-    url: "https://github.com/ccamara/wrug-depedencies"
-  - icon: brands/youtube
-    name: Recording
-    url: ""
+    url: "https://warwickcim.github.io/walkability_survey/analysis/index.html"
   - icon: book-open
     name: Documentation
     url: "http://platial21.platialscience.net/wp-content/uploads/2021/12/streetscape_perception_modelling_novack_et_al.pdf"

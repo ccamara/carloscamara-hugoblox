@@ -14,9 +14,9 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2019-05-22T16:30:00.000Z
 event_end: ""
@@ -36,21 +36,11 @@ tags:
 featured: false
 
 image:
-  caption: "Photo: Javier \xC1lvarez"
+  caption: "Photo: Javier Álvarez"
   focal_point: Smart
 
 links:
-  - icon: brands/github
-    name: Demo or code
-    url: ""
-  - icon: brands/youtube
-    name: Recording
-    url: ""
-  - icon: book-open
-    name: Documentation
-    url: ""
-  - icon: doc-text
-    name: Slides
+  - type: slides
     url: "https://docs.google.com/presentation/d/e/2PACX-1vQkbpo5jsj5PsJAarbt6xsWejrLza4yEeSkq6dVHhvQU0glnw9_JybvgwSzLxGscCdEQv1QzkV85T0K/pub?start=false&loop=false&delayms=3000"
 
 # Link to your Markdown slides (folder name in content/slides/)
@@ -60,7 +50,5 @@ slides: ""
 projects:
   - zaccesible
 ---
-
-<!-- Add the talk outline, prerequisites, and how people can join. -->
 
 Within the Pint of Science 2019 event in Zaragoza, Miguel Sevilla-Callejo and myself explained what we are doing in Accessible Zaragoza, and action-research project by Universidad San Jorge and Collaborative Mapping, on urban mobility and disabilities. 

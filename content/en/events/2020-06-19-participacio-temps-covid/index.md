@@ -14,9 +14,9 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2020-06-19T14:30:00.000Z
 event_end: 2020-06-19T18:30:00.000Z
@@ -27,7 +27,8 @@ authors:
   - me
 
 tags:
-  - ""
+  - "Participation"
+  - "Cities"
 
 featured: false
 
@@ -36,15 +37,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: brands/github
-    name: Demo or code
-    url: ""
   - icon: brands/youtube
     name: Recording
     url: "https://youtu.be/9JHfnh54hMk"
-  - icon: book-open
-    name: Documentation
-    url: ""
+
 
 # Link to your Markdown slides (folder name in content/slides/)
 slides: ""

@@ -14,9 +14,9 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2016-07-14T15:00:27.000Z
 event_end: ""

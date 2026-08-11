@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   Presentación de +arquitectura, una de las 28 realizaciones seleccionadas en el foro arquia/Próxima 2008. 
 

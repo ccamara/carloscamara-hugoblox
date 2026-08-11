@@ -14,9 +14,9 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2021-09-15T13:00:00.000Z
 event_end: ""
@@ -42,14 +42,12 @@ image:
 
 links:
   - icon: brands/github
-    name: Demo or code
-    url: ""
+    name: Demo code
+    url: "https://igsd-uow.github.io/wfenexus/"
   - icon: brands/youtube
     name: Recording
     url: "https://www.youtube.com/watch?v=LRWgunr4Kb8"
-  - icon: book-open
-    name: Documentation
-    url: ""
+
 
 # Link to your Markdown slides (folder name in content/slides/)
 slides: ""

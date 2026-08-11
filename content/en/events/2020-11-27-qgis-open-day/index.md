@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   A (brief) technical overview
 
@@ -39,16 +39,9 @@ image:
 
 links:
   - icon: brands/github
-    name: Demo or code
-    url: ""
-  - icon: brands/youtube
-    name: Recording
-    url: "https://www.youtube.com/watch?v=IraiAF4s5Tg&feature=youtu.be"
-  - icon: book-open
-    name: Documentation
-    url: ""
-  - icon: doc-text
-    name: Slides
+    name: Code
+    url: "https://github.com/qgises/qgis-es"
+  - type: slides
     url: "https://slides.carloscamara.es/2020-11-27-qgises-website/"
 
 # Link to your Markdown slides (folder name in content/slides/)
@@ -59,5 +52,8 @@ projects: []
 ---
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
+In this QGIS OpenDay I shared an overview about the technical implementation I developed for the QGIS Spanish Association's website using the Static Site Generator [`hugo`](https://gohugo.io)
 
-A technical overview on the technical implementation of QGIS Spanish Association's website that I developed using [`hugo`](https://gohugo.io)
+<embed type="text/html" src="https://slides.carloscamara.es/2020-11-27-qgises-website/" width="100%" height="500">
+
+Full screen version for the slides [here](https://slides.carloscamara.es/2020-11-27-qgises-website/)

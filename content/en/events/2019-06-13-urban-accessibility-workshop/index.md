@@ -16,7 +16,7 @@ address:
 
 summary: Improving handicapped people’s autonomy through collaborative mapping
 abstract: |
-  Add the talk synopsis, key results, and logistics.
+  
 
 event_start: 2019-06-13T14:30:00.000Z
 event_end: ""
@@ -35,21 +35,11 @@ tags:
 featured: false
 
 image:
-  caption: "Photo: Javier \xC1lvarez"
+  caption: "Photo: Javier Álvarez"
   focal_point: Smart
 
 links:
-  - icon: brands/github
-    name: Demo or code
-    url: ""
-  - icon: brands/youtube
-    name: Recording
-    url: ""
-  - icon: book-open
-    name: Documentation
-    url: ""
-  - icon: doc-text
-    name: Slides
+  - type: Slides
     url: "https://slides.carloscamara.es/2019-06-13-accessibility-workshop/"
 
 # Link to your Markdown slides (folder name in content/slides/)
@@ -59,8 +49,6 @@ slides: ""
 projects:
   - zaccesible
 ---
-
-<!-- Add the talk outline, prerequisites, and how people can join. -->
 
 Today, cities face the greatest challenges in history due to their exponential growth, the concentration of more than half of the world's population or the increase in wealth and social inequality, among other factors. Fortunately, it is becoming increasingly common to design, plan and manage cities taking into account aspects such as urban mobility, pollution reduction, energy efficiency, access to housing and social equality. This social awareness translates into more liveable, more efficient, fairer cities. However, this planning is usually designed on the basis of the anthropometric subject considered "normal", paying little attention to functional diversity. Even though the number of people with some type of disability is increasing, their needs are often not taken into account, which makes it difficult or impossible for them to live autonomously and develop a full life.
 

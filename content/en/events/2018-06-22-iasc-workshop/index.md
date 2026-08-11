@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   In the last decade, bottom-up initiatives of social transformation lead by urban social movements have been articulated around the notion of Urban Commons in cities across the world, and in particular, in Europe.  Under the umbrella of this concept there have been developing new forms of social activism that challenge and renovate “old-style” grassroots activism (Castells, 1983). New forms based on the traditions of digital technology activism, non-urban natural resources management practices transported to urban settings and new forms of social activism such as the 15M or the Zapatista movement (Cámara, 2018). 
   
@@ -39,15 +39,15 @@ image:
   focal_point: Center
 
 links:
-  - icon: brands/github
-    name: Demo or code
-    url: ""
-  - icon: brands/youtube
-    name: Recording
-    url: ""
-  - icon: book-open
-    name: Documentation
-    url: ""
+  # - icon: brands/github
+  #   name: Demo or code
+  #   url: ""
+  # - icon: brands/youtube
+  #   name: Recording
+  #   url: ""
+  # - icon: book-open
+  #   name: Documentation
+  #   url: ""
 
 # Link to your Markdown slides (folder name in content/slides/)
 slides: ""
@@ -57,5 +57,4 @@ projects:
   - urban-commons
 ---
 
-<!-- Add the talk outline, prerequisites, and how people can join. -->
 

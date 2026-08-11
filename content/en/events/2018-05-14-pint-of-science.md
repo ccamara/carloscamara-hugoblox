@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   En un momento en el que existen mapas sobre casi todo, un grupo de personas hemos decidido dedicar nuestro tiempo libre a realizar, entre todos, un mapa de bordillos, semáforos y aceras. Puede parecer algo irrelevante o, en el mejor de los casos, una afición como cualquier otra, pero nada más alejado de la realidad. En esta sesión hablaremos de por qué hacemos ese mapa, para qué sirve, cómo lo hacemos y a quién ayudamos al hacerlo.
 

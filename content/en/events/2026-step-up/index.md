@@ -16,7 +16,7 @@ address:
 
 summary: "Preliminary results of the DisCouRSE funded project on computing skills pedagogies"
 # abstract: |
-#   Add the talk synopsis, key results, and logistics.
+#   
 
 event_start: 2026-06-29T09:30:53.837Z
 event_end: 2026-06-29T17:30:53.837Z

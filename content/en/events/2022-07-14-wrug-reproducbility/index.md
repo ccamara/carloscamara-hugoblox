@@ -14,7 +14,7 @@ address:
   postcode: ""
   country: ""
 
-summary: "Why attend? State the value for participants."
+summary: ""
 abstract: |
   In this first session of the WRUG reproducibility series, I introduce two methods to deal with library dependencies: {automagic} and {renv}
 
