@@ -10,7 +10,7 @@ image:
   caption: Credit or context (Markdown supported)
 
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=1600"
+  image: "featured.png"
   position:
     x: 50
     y: 40
@@ -23,7 +23,7 @@ cover:
     enabled: true
     height: "80px"
   icon:
-    name: "✨"
+    name: ""
 
 # Authors are matched to profiles in content/authors/
 authors:

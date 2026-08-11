@@ -2,7 +2,7 @@
 title: "Sobre accesibilidad, Google y datos abiertos: no todo es oro lo que reluce"
 summary: ""
 date: 2018-03-22
-draft: false
+draft: true
 
 # Featured image for cards/social
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
