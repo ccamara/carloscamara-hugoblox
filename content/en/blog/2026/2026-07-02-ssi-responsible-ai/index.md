@@ -27,8 +27,7 @@ content_meta:
 ---
 
 > [!NOTE]
-> This collaborative post was originally published at the [Software Sustainability Blog](https://www.software.ac.uk/news/responsible-ai-rse-living-register-support-practitioners-leaders-and-policymakers and 
-) and was authored by some of the Responsible AI Study Group members: Joseph Shingleton, Carlos Cámara-Menoyo, Oscar Seip, Stephan Druskat, Sam Harrison, Arielle Bennett and B. Almarzouq.
+> This collaborative post was originally published at the [Software Sustainability Blog](https://www.software.ac.uk/news/responsible-ai-rse-living-register-support-practitioners-leaders-and-policymakers) and was authored by some of the Responsible AI Study Group members: Joseph Shingleton, Carlos Cámara-Menoyo, Oscar Seip, Stephan Druskat, Sam Harrison, Arielle Bennett and B. Almarzouq.
 
 The research software community is nothing if not diverse. It brings together practitioners loosely connected by their relationship with the broad and sometimes nebulous idea of 'research software'. The day-to-day experience of, say, an engineer developing and maintaining computational fluid dynamics simulations is very different from that of a data architect supporting clinical data pipelines. It is unsurprising, then, that this diversity of experience gives rise to a wide range of hopes, concerns, and uncertainties - particularly within the context of Generative Artificial Intelligence (GenAI).
 
@@ -56,6 +55,6 @@ The register is open to new contributions describing risks around AI adoption wi
 
 ## Contributing to RAIRR
 
-You can view the full register and contribute to it[here](https://jshng-glasgow.github.io/SSI-Responsible-AI-Risk-Register/). Please make sure to read the [README.md](https://github.com/jshng-glasgow/SSI-Responsible-AI-Risk-Register/blob/main/README.md) and [CONTRIBUTING.md](http://contributing.md/) for more information about what makes a good contribution to the register.
+You can view the full register and contribute to it [here](https://jshng-glasgow.github.io/SSI-Responsible-AI-Risk-Register/). Please make sure to read the [README.md](https://github.com/jshng-glasgow/SSI-Responsible-AI-Risk-Register/blob/main/README.md) and [CONTRIBUTING.md](http://contributing.md/) for more information about what makes a good contribution to the register.
 
 The register is maintained by the SSI Responsible AI Study Group – a recently established group interested in understanding ways in which AI may be adopted safely, fairly, and constructively within research software practices. The group is open to new members from both within the SSI and externally – if you’re interested in joining, then please contact joseph.shingleton[at]glasgow.ac.uk or oscar.seip[at]manchester.ac.uk.
