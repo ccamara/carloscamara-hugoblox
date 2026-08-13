@@ -34,18 +34,16 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I am an interdisciplinary researcher whose research articulates around how physical and digital infrastructures, especially those that are commonly produced, respond to and are shaped by societal challenges.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
+  #       My research interests revolve around the social aspect of technology and methods to surface the world-views that are invariably embedded in technical artefacts such as cities, software or platforms. To do so, I use mixed methods with a preference for digital methods, participatory methods and data visualisation and a keen interest in EDI and open research best practices to make research Findable, Accessible, Interoperable, and Reusable
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:

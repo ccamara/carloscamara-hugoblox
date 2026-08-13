@@ -1,21 +1,29 @@
 ---
-title: Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation
+title: "Can Digital Goods be Neutral? Evaluating OpenStreetMap’s equity through participatory data visualisation"
 date: 2024-09-01
 draft: false
-summary: "This research project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap [OSM]."
+summary: "This research project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap (OSM)."
+
+image:
+  caption: 'La Borda'
+  preview_only: false
 
 links:
   - type: site
     url: "https://warwick.ac.uk/fac/cross_fac/cim/research/digital-good-neutrality-osm/"
 
 tags:
-  - researchç
+  - Research
   - OpenStreetMap
   - codesign
   - data visualisations
   - geochicas
   - EDI
   - feminism
+
+authors:
+- me
+- jorge-leon
 ---
 
 
