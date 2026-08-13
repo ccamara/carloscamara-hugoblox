@@ -4,7 +4,7 @@ authors:
 - me
 - Pep Vivas i Elias
 - Ramon Ribera-Fumaz
-- Jorge León Casero
+- jorge-leon
 author_notes:
 - ''
 - ''

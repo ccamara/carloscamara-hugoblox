@@ -1,7 +1,7 @@
 ---
 title: "The Precariousness Of Urban Commons In The Face Of European Public Law"
 authors:
-- Jorge León Casero
+- jorge-leon
 - me
 author_notes:
 - 'Equal contribution'

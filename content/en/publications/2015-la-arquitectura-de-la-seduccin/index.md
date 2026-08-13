@@ -5,7 +5,7 @@ title: "La arquitectura de la Seducción: Un análisis de las arquitecturas digi
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jorge León-Casero
+  - jorge-leon
   - me
 
 # Author notes (optional)

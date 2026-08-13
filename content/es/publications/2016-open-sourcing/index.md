@@ -2,7 +2,7 @@
 title: 'MRSZ 2018: Mapa de Riesgo Social de Zaragoza. De técnica de gestión de poblaciones a praxis de consolidación de los comunes'
 authors:
 - me
-- Jorge León-Casero
+- jorge-leon
 - Ana Ruiz Varona
 author_notes:
 - ''

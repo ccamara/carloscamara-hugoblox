@@ -3,7 +3,7 @@ title: "Eventful migration: Rethinking social media migration with help from Elo
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: ["Nathaniel Tkacz", "me", "Fangzhou Zang"]
+authors: ["nathaniel-tkacz", "me", "Fangzhou Zang"]
 
 # Author notes (optional)
 author_notes:

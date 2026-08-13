@@ -3,7 +3,7 @@ title: 'Zaragoza Accesible: un caso práctico de integración de SIG con fines s
 authors:
 - me
 - Ana Ruiz
-- Jorge Leon Casero
+- jorge-leon
 author_notes:
 - ''
 - ''
