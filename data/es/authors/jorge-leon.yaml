@@ -1,0 +1,19 @@
+slug: "jorge-leon"
+name:
+  display: "Jorge León-Casero"
+role: "Profesor Titular"
+affiliations:
+  - name: "Universidad de Zaragoza"
+    url: "https://unizar.es"
+bio: ""
+status:
+  icon: "👋"
+schema: "hugoblox/author/v1"
+links:
+  # - icon: "at-symbol"
+  #   url: "mailto:alex.johnson@example.com"
+  #   label: "E-mail Me"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=q-K14lIAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-3723-1123"

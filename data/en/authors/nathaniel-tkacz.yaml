@@ -1,0 +1,21 @@
+slug: "nathaniel-tkacz"
+name:
+  display: "Nathaniel Tkacz"
+role: "Professor, Associate Co-Head of the Department"
+affiliations:
+  - name: "Goldsmiths University of London"
+    url: "https://www.gold.ac.uk/media-communications/people/tkacz-nathaniel/"
+bio: "Nate Tkacz is a Professor of Digital Media and Culture. His broad interest is in understanding how digital technologies produce or (re)shape culture and society. He has approached this interest in a number of ways, for example, through a study of how digital networks change the conditions of knowledge production (through studies of Wikipedia or dashboard interfaces), or through studies of how apps transform our relationship to money and finance (banking apps), or governance and health (covid apps). His research aims to combine critical and technical understandings of media with creative methodological approaches."
+status:
+  icon: ""
+schema: "hugoblox/author/v1"
+links:
+  # - icon: "at-symbol"
+  #   url: "mailto:alex.johnson@example.com"
+  #   label: "E-mail Me"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=q-K14lIAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-5796-4105"
+  - icon: "brands/wikipedia"
+    url: "https://en.wikipedia.org/wiki/Nathaniel_Tkacz"
