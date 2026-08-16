@@ -68,9 +68,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: events
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Events
       count: 6
       filters:
         folders:

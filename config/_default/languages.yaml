@@ -12,6 +12,25 @@ es:
         blog: /blog/:year/:month/:slug/
       section:
         blog: /blog/
+  menu:
+    main:
+      - name: Inicio
+        url: '#about'
+        weight: 1
+      - name: Sobre mi
+        url: '/experience'
+        weight: 2
+      - name: Publicaciones
+        url: '#papers'
+        weight: 3
+      - name: Eventos
+        url: '#events'
+        weight: 4
+      - name: Blog
+        url: '#blog'
+        weight: 5
+
+
 
 # Uncomment the lines below to configure your website in a second language.
 en: 
@@ -22,6 +41,29 @@ en:
         blog: /blog/:year/:month/:slug/
       section:
         blog: /blog/
+  menu:
+    main:
+    - name: Home
+      url: '/#about'
+      weight: 1
+    - name: About me
+      url: '/experience'
+      weight: 2
+    - name: Publications
+      url: '/#papers'
+      weight: 3
+    - name: Events
+      url: '/#events'
+      weight: 4
+    - name: Projects
+      url: '/projects'
+      weight: 5
+    - name: Blog
+      url: '/#blog'
+      weight: 6
+    # - name: Courses
+    #   url: '/courses'
+    #   weight: 10
 #zh:
 #  locale: zh-Hans
 #  contentDir: content/zh
