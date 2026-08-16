@@ -13,9 +13,12 @@ sections:
   - block: markdown
     content:
       title: 'Overview'
-      subtitle: 'hello'
+      subtitle: ''
       text: |-
-        Use this area to create a table of contents
+        I am an interdisciplinary researcher whose research articulates around how physical and digital infrastructures, especially those that are commonly produced, respond to and are shaped by societal challenges. 
+        
+        I’ve worked as an architect, drupal developer, project manager, lecturer, data scientist, and currently as Principal Research Software Engineer at the [Centre for Interdisciplinary Methodologies](https://warwick.ac.uk/cim) at the University of Warwick.
+
     design:
       columns: '2'
   - block: resume-experience

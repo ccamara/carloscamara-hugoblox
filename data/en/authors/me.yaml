@@ -130,16 +130,6 @@ experience:
     end: "2009-09-01"
 
 skills:
-  - name: "Technical Skills"
-    items:
-      - label: "R"
-        level: 4
-      - label: "Python"
-        level: 3
-      - label: "Maps and GIS"
-        level: 4
-      - label: "Cloud Computing"
-        level: 4
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
@@ -150,7 +140,52 @@ skills:
         level: 4
   - name: "Teaching"
     items:
-      - label: ""
+      - label: "Course design"
+        level: 4.5
+      - label: "Lecturing"
+        level: 5
+      - label: "Assessments"
+        level: 3.5
+  - name: "Technical Skills"
+    items:
+      - label: "R"
+        level: 4.5
+      - label: "Python"
+        level: 3
+      - label: "Computational notebooks"
+        level: 5
+      - label: "Static Site Generators"
+        level: 4
+      - label: "Drupal"
+        level: 3
+
+
+  - name: "Research Methods"
+    items:
+      - label: "Maps and GIS"
+        level: 4
+      - label: "Data visualisation"
+        level: 4.5
+      - label: "Participatory Methods"
+        level: 4
+      - label: "Surveys"
+        level: 4
+      - label: "Interviews"
+        level: 3
+
+  - name: "Soft skills"
+    items:
+      - label: "Critical thinking"
+        level: 5
+      - label: "Creativity"
+        level: 4
+      - label: "Line managing"
+        level: 4
+      - label: "Active listening"
+        level: 4.5
+      - label: "Open Source and collaboration"
+        level: 5
+
 languages:
   - name: "Spanish"
     level: 5
