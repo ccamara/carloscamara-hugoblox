@@ -7,6 +7,9 @@ es:
   locale: es-es
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/es
+  params:
+    tagline: "Web personal y profesional de Carlos Cámara-Menoyo."
+    description: "Soy una persona versátil, transdisciplinaria y apasionada, con una formación híbrida que combina lo técnico y lo sociológico: he trabajado como arquitecto, desarrollador de Drupal, gestor de proyectos, docente, investigador y científico de datos, realizando tareas de procesamiento y visualización de datos con R y trabajando con datos geoespaciales mediante QGIS."
   permalinks:
       page:
         blog: /blog/:year/:month/:slug/
@@ -15,19 +18,19 @@ es:
   menu:
     main:
       - name: Inicio
-        url: '#about'
+        url: '/#about'
         weight: 1
       - name: Sobre mi
         url: '/experience'
         weight: 2
       - name: Publicaciones
-        url: '#papers'
+        url: '/#papers'
         weight: 3
       - name: Eventos
         url: '#events'
         weight: 4
       - name: Blog
-        url: '#blog'
+        url: '/#blog'
         weight: 5
 
 
@@ -36,6 +39,9 @@ es:
 en: 
   locale: en-GB
   contentDir: content/en
+  params:
+    tagline: "Carlos Cámara-Menoyo's personal and professional website."
+    description: "I am a versatile, transdisciplinary and passionate individual, with a hybrid background combining technical and sociological disciplines: I have worked as an architect, Drupal developer, project manager, lecturer, researcher and data scientist, carrying out data processing and visualisation tasks using R and working with geospatial data using QGIS. "
   permalinks:
       page:
         blog: /blog/:year/:month/:slug/
