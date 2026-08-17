@@ -183,8 +183,8 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: true
-    provider: "giscus" # giscus | disqus
-    fediverse:
+    provider: "telling" # giscus | disqus
+    telling:
       instance: "https://mastodon.social"
     giscus:
       repo: ""
