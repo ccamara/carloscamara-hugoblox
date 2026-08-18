@@ -183,7 +183,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: true
-    provider: "bonfire" # giscus | disqus
+    provider: "disqus" # giscus | disqus
     bonfire:
       instance: "https://bonfire.cim.warwick.ac.uk"
     giscus:
