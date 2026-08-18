@@ -26,6 +26,14 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+  - target:
+      path: /blog/**
+    params:
+      commentable: true
+  - target:
+      path: /events/**
+    params:
+      commentable: true
 
 ############################
 ## ADVANCED
