@@ -183,16 +183,16 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: true
-    provider: "telling" # giscus | disqus
-    telling:
-      instance: "https://mastodon.social"
+    provider: "bonfire" # giscus | disqus
+    bonfire:
+      instance: "https://bonfire.cim.warwick.ac.uk"
     giscus:
       repo: ""
       repo_id: ""
       category: ""
       category_id: ""
     disqus:
-      shortname: ""
+      shortname: "carloscamara"
 
   # ────────────────────────────────────────────────────────────────────────────
   # ANALYTICS
