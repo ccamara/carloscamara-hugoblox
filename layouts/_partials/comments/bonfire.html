@@ -1,14 +1,15 @@
 <!-- Implements Bonfire's telling widget. Documentation: https://bonfirenetworks.org/telling/-->
 
-{{ if site.Params.hugoblox.comments.bonfire.instance }}
+{{ if site.Params.hugoblox.comments.bonfire}}
+{{ $config := site.Params.hugoblox.comments.bonfire }}
 <!-- Add the Telling to any page -->
 
 <div class="bonfire-comments">
 
   <script
-    src="https://bonfire.cim.warwick.ac.uk/js/comments_embed.js"
-    data-theme="light"
-    data-mode="nested"
+    src="{{ $config.instance }}/js/comments_embed.js/"
+    data-theme="{{$config.theme}}"
+    data-mode="{{$config.mode}}"
     async
   ></script>
 
