@@ -186,7 +186,7 @@ hugoblox:
     provider: "bonfire" # giscus | disqus
     bonfire:
       # See parameter's documentation: https://bonfirenetworks.org/telling/
-      instance: "https://campground.bonfire.cafe"
+      instance: "https://bonfire.cim.warwick.ac.uk"
       theme: "light"
       mode: "nested"
     giscus:
