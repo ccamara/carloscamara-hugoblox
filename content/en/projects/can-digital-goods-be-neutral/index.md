@@ -5,7 +5,7 @@ draft: false
 summary: "This research project promotes digital equity by empowering members from under-represented communities to co-produce data visualisations and tools that examine and challenge the impact of neutrality as a guiding principle in a particular and relevant case of digital good: OpenStreetMap (OSM)."
 
 image:
-  caption: 'La Borda'
+  caption: ''
   preview_only: false
 
 links:
@@ -23,6 +23,7 @@ tags:
 
 authors:
 - me
+- tim-monteath
 - jorge-leon
 ---
 

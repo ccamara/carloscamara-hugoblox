@@ -12,7 +12,7 @@ address:
   city: ""
   region: ""
   postcode: ""
-  country: ""
+  country: "France"
 
 summary: "A systematic analysis of OSM's tagging proposals from an inclusion standpoint"
 abstract: |
@@ -36,22 +36,26 @@ image:
   caption: ""
   focal_point: Center
 
-# links:
-#   - icon: brands/github
-#     name: Demo or code
-#     url: ""
-#   - icon: brands/youtube
-#     name: Recording
-#     url: ""
-#   - icon: book-open
-#     name: Documentation
-#     url: ""
+links:
+  - icon: brands/github
+    name: Demo or code
+    url: "https://github.com/WarwickCIM/osmproposals"
+  - icon: brands/youtube
+    name: Recording
+    url: "https://peertube.openstreetmap.fr/w/tVocMbuYMGp6UrwedHw6RB"
+  - icon: book-open
+    name: Conference Proceeding
+    url: "https://doi.org/10.5281/zenodo.21576272"
+  - icon: link
+    name: Programme
+    url: https://2026.stateofthemap.org/sessions/FLYV3H/
+
 
 # Link to your Markdown slides (folder name in content/slides/)
 slides: ""
 
 # Associate related projects
-projects: []
+projects: ["can-digital-goods-be-neutral"]
 ---
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
