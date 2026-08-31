@@ -1,0 +1,22 @@
+slug: "tim-monteath"
+name:
+  display: "Timothy Monteath"
+role: "Assistant Professor"
+affiliations:
+  - name: "University of Warwick"
+    url: "https://warwick.ac.uk"
+bio: ""
+status:
+  icon: ""
+schema: "hugoblox/author/v1"
+links:
+  # - icon: "at-symbol"
+  #   url: "mailto:alex.johnson@example.com"
+  #   label: "E-mail Me"
+  # - icon: "academicons/google-scholar"
+  #   url: "https://scholar.google.com/"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0003-2481-9785"
+Tim's research is located at the intersections of economic sociology and financial geography. Broadly conceived, I am interested in the infrastructure of data and information, and how these infrastructures can be understood and used to further social scientific enquiry. More specifically, my work has focused on land ownership and registration in the UK, elites and the super-rich, and financialisation and the power of finance. I have worked extensively with a wide variety of big datasets - programming mostly in R and Python.
+
+Tim's research often contains a visual and spatial element, incorporating novel GIS and data visualization methods as part of my research. I previously taught Cartography and Data Visualisation at UCL and am a co-author of the forthcoming Atlas of Finance.
