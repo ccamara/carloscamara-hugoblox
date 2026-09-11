@@ -28,6 +28,7 @@ tags:
   - Research Talks
   - Digital Research Competencies
   - DRTP
+  - RSECon
 
 featured: false
 

@@ -34,6 +34,7 @@ tags:
   - Python
   - Quarto
   - Open Science
+  - RSECon
 
 featured: false
 
