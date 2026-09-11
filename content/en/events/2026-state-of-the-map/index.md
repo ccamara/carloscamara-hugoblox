@@ -49,6 +49,9 @@ links:
   - icon: link
     name: Programme
     url: https://2026.stateofthemap.org/sessions/FLYV3H/
+  - icon: link
+    name: Slides
+    url: https://doi.org/10.5281/zenodo.22158699
 
 
 # Link to your Markdown slides (folder name in content/slides/)
@@ -59,3 +62,4 @@ projects: ["can-digital-goods-be-neutral"]
 ---
 
 <!-- Add the talk outline, prerequisites, and how people can join. -->
+<embed type="text/html" src="https://warwickcim.github.io/dgn-osm-neutrality/slides/2026-08-27_sotm/" width="100%" height="500">
