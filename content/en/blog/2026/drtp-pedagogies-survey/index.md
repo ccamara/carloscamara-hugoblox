@@ -1,6 +1,6 @@
 ---
 title: How do dRTPs contribute to the teaching of Digital Research Competencies?
-summary: "One-sentence takeaway for busy readers (also used in cards and SEO)."
+summary: ""
 date: 2026-10-03
 draft: false
 
