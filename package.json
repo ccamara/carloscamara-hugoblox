@@ -14,8 +14,8 @@
     "preact": "^10.27.2"
   },
   "devDependencies": {
-    "@tailwindcss/cli": "^4.3.0",
-    "@tailwindcss/typography": "^0.5.19",
-    "tailwindcss": "^4.3.0"
+    "@tailwindcss/cli": "^4.3.3",
+    "@tailwindcss/typography": "^0.5.20",
+    "tailwindcss": "^4.3.3"
   }
 }
